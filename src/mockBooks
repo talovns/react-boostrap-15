@@ -1,0 +1,23 @@
+export const mockBooks = [
+  {
+    id: 1,
+    title: "Платье «Алина»",
+    description: "Лёгкое летнее платье из хлопка, идеально на каждый день.",
+    imageUrl: "https://i.pinimg.com/736x/d2/1c/04/d21c04f5c719d12b6e44005a601026f2.jpg",
+    createdAt: 1700000000000,
+  },
+  {
+    id: 2,
+    title: "Платье «Вечернее»",
+    description: "Платье для вечерних выходов, подчёркивает силуэт.",
+    imageUrl: "https://i.pinimg.com/1200x/62/2e/17/622e1711635045109c2dee4abedc2de9.jpg",
+    createdAt: 1700001000000,
+  },
+  {
+    id: 3,
+    title: "Платье «Миди»",
+    description: "Миди длина, универсальный вариант под кеды и каблуки.",
+    imageUrl: "https://i.pinimg.com/1200x/7b/56/5e/7b565e1bea3cb33aea8b6115e426cfe7.jpg",
+    createdAt: 1700002000000,
+  },
+];
